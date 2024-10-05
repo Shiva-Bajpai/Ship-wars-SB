@@ -1,4 +1,10 @@
-# starwars shooting game
-Use mouse to move and arrow up to shoot. 
-Shoot coins to gain score!
+# Starwars Shooting Game
+
+Use the Mouse or Trackpad to move and Upper Arrow to shoot. 
+
+Shoot UFOs to gain score!
+
 :)
+
+Follow for More Games :)
+
